@@ -23,5 +23,30 @@ Parameter Scanner is a Revit add-in that allows users to search for elements bas
 
 ![](https://github.com/lucasgarciaf/ParameterScanner/blob/main/ParamScanner.gif)
 
+
+
+## Dynamo Graphs
+
+This repository includes also Dynamo graphs that can replace the Parameter Scanner add-in.
+
+### Available Graphs
+
+- **ParamScanner.dyn**: has the same functionality as the add-in.
+
+### Usage Instructions
+
+1. **Open Dynamo Player in Revit**:
+   - Launch Revit, open a project, and start Dynamo Player.
+2. **Load the Graph**:
+   - In Dynamo Player, navigate to the `ParamScanner` tab to open the Window.
+3. **Run the Graph**:
+   - Follow any prompts or instructions within the UI.
+
+
+![](https://github.com/lucasgarciaf/ParameterScanner/blob/main/DynamoGraphs/dynamoParamScanner.gif)
+
 # License
 This project is licensed under the MIT License.
+
+Feel free to reach out if you have any questions or need assistance using these tools.
+
