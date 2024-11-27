@@ -21,5 +21,7 @@ Parameter Scanner is a Revit add-in that allows users to search for elements bas
 4. Click Isolate in View to isolate elements or Select to select them.
 5. View the status message for results.
 
+![](https://github.com/lucasgarciaf/ParameterScanner/blob/main/ParamScanner.gif)
+
 # License
 This project is licensed under the MIT License.
