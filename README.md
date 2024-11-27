@@ -10,7 +10,7 @@ Parameter Scanner is a Revit add-in that allows users to search for elements bas
 
 # Installation
 ## Using the ZIP File
-1. Download the ParameterScanner.zip from the releases page.
+1. Download the ParameterScanner.zip from the [releases page](https://github.com/lucasgarciaf/ParameterScanner/releases/tag/v1.0.0).
 2. Extract the contents.
 3. Copy the ParameterScanner folder to your Revit add-ins directory: "C:\ProgramData\Autodesk\Revit\Addins\2024\"
 
